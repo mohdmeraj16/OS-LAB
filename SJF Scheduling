@@ -115,24 +115,24 @@ int main() {
     return 0;
 }
 
-OUTPUT :-
-Enter the number of processes: 3
-Enter details for process 1:
-Process ID: 1
-Burst Time: 8
-Arrival Time: 0
-Enter details for process 2:
-Process ID: 2
-Burst Time: 4
-Arrival Time: 1
-Enter details for process 3:
-Process ID: 3
-Burst Time: 9
-Arrival Time: 2
-Processes      Burst time      Waiting time     Turn around time
-1              8               4               12
-2              4               0               4
-3              9               10              19
+// OUTPUT :-
+// Enter the number of processes: 3
+// Enter details for process 1:
+// Process ID: 1
+// Burst Time: 8
+// Arrival Time: 0
+// Enter details for process 2:
+// Process ID: 2
+// Burst Time: 4
+// Arrival Time: 1
+// Enter details for process 3:
+// Process ID: 3
+// Burst Time: 9
+// Arrival Time: 2
+// Processes      Burst time      Waiting time     Turn around time
+// 1              8               4               12
+// 2              4               0               4
+// 3              9               10              19
 
-Average waiting time = 4.66667
-Average turnaround time = 11.6667
+// Average waiting time = 4.66667
+// Average turnaround time = 11.6667
