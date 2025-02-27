@@ -69,16 +69,16 @@ int main()
     return 0;
 } 
 
-OUTPUT :-
-Enter the number of processes: 3
-Enter the burst times for the processes:
-Burst time for process 1: 10
-Burst time for process 2: 5
-Burst time for process 3: 8
-Enter the quantum time: 2
-Processes  Burst time  Waiting time  Turn around time
- 1          10         12            22
- 2          5          7             12
- 3          8          10            18
-Average waiting time = 9
-Average turn around time = 17.3333
+//OUTPUT :-
+//Enter the number of processes: 3
+//Enter the burst times for the processes:
+//Burst time for process 1: 10
+//Burst time for process 2: 5
+//Burst time for process 3: 8
+//Enter the quantum time: 2
+//Processes  Burst time  Waiting time  Turn around time
+// 1          10         12            22
+// 2          5          7             12
+// 3          8          10            18
+//Average waiting time = 9
+//Average turn around time = 17.3333
