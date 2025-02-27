@@ -75,32 +75,32 @@ int main() {
     return 0;
 }
 
-OUTPUT :-
-Enter Total Number of Processes: 4
+// OUTPUT :-
+// Enter Total Number of Processes: 4
 
-Enter Burst Time and Priority
+// Enter Burst Time and Priority
 
-P[1]
-Burst Time: 6
-Priority: 3
+// P[1]
+// Burst Time: 6
+// Priority: 3
 
-P[2]
-Burst Time: 2
-Priority: 2
+// P[2]
+// Burst Time: 2
+// Priority: 2
 
-P[3]
-Burst Time: 14
-Priority: 1
+// P[3]
+// Burst Time: 14
+// Priority: 1
 
-P[4]
-Burst Time: 6
-Priority: 4
+// P[4]
+// Burst Time: 6
+// Priority: 4
 
-Process Burst Time      Waiting Time    Turnaround Time
-P[3]    14              0               14
-P[2]    2               14              16
-P[1]    6               16              22
-P[4]    6               22              28
+// Process Burst Time      Waiting Time    Turnaround Time
+// P[3]    14              0               14
+// P[2]    2               14              16
+// P[1]    6               16              22
+// P[4]    6               22              28
 
-Average Waiting Time = 13
-Average Turnaround Time = 20
+// Average Waiting Time = 13
+// Average Turnaround Time = 20
